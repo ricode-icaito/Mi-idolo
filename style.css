@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  background: rgb(247, 234, 172);
+}
+
+h1 {
+  font-family: cursive;
+}
+
+nav {
+  float: left;
+  margin: 10px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid #999;
+}
+
+nav ul li a:hover {
+  background-color: blue;
+  color: white;
+}
+
+header {
+  background: grey;
+}
+
+div {
+  width: 960px;
+  border: 2px solid;
+  margin: 20px auto;
+  text-align: center;
+  background-color: goldenrod;
+}
+
+div footer p {
+  background-color: black;
+  color: white;
+}
+
+time {
+  color: #999;
+  display: block;
+}
+
+article {
+  margin: 60px;
+  border: 2px solid;
+  background-color: gold;
+}
+
+hgroup, aside, p, time {
+  margin: 20px;
+}
+
+aside blockquote {
+  border: 2px solid;
+  margin-bottom: 50px;
+  display: inline-block;
+  padding: 50px;
+}
