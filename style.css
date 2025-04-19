@@ -1,7 +1,7 @@
 * {
   padding: 0;
   margin: 0;
-  background: rgb(247, 234, 172);
+  background: rgb(139, 206, 223);
 }
 
 h1 {
@@ -29,7 +29,7 @@ header {
 }
 
 div {
-  width: 960px;
+  width: 700px;
   border: 2px solid;
   margin: 20px auto;
   text-align: center;
