@@ -14,6 +14,7 @@ nav {
 }
 
 nav li {
+  background-color: goldenrod;
   display: inline-block;
   padding: 5px;
   border: 1px solid #999;
@@ -33,7 +34,6 @@ div {
   border: 2px solid;
   margin: 20px auto;
   text-align: center;
-  background-color: goldenrod;
 }
 
 div footer p {
@@ -52,13 +52,6 @@ article {
   background-color: gold;
 }
 
-hgroup, aside, p, time {
+hgroup, p, time {
   margin: 20px;
-}
-
-aside blockquote {
-  border: 2px solid;
-  margin-bottom: 50px;
-  display: inline-block;
-  padding: 50px;
 }
